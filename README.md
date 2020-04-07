@@ -1,5 +1,4 @@
 # V6-File-System
-Replica of V6 File System to perform basic unix commands.
 
 Implementation of v6 file system in C: V6 file system is highly restrictive. A modification has been done: Block size is 1024 Bytes, i-node size is 64 Bytes and i-node’s structure has been modified as well.
 
